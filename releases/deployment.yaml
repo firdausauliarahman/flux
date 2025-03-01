@@ -94,4 +94,3 @@ spec:
                 name: example-app
                 port:
                   number: 80
-  ingressClassName: traefik
